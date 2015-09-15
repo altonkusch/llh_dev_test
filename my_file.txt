@@ -2,3 +2,15 @@ This is file number 1.
 And it is being changed for additional comments.
 
 This is the commit before the stash.
+
+Going to try to test the stash stuff.
+<HTML TAG>
+C:\Users\akusch\Documents\Git\Repos\my_git_project
+C:\Users\akusch\Documents\Git\Repos\my_git_project
+	<HTML TAG>
+	<HTML TAG>
+	<HTML TAG>
+	<HTML TAG>
+	<HTML TAG>
+<HTML TAG>
+

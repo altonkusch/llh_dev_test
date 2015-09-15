@@ -2,7 +2,9 @@ This is file number 1.
 And it is being changed for additional comments.
 
 This is the commit before the stash.
-
+<!-- Start Change One -->
+	Text goes in here.
+<!-- End Change One -->
 Going to try to test the stash stuff.
 <HTML TAG>
 C:\Users\akusch\Documents\Git\Repos\my_git_project
@@ -15,5 +17,8 @@ C:\Users\akusch\Documents\Git\Repos\my_git_project
 	<!-- End Change Two -->
 	<HTML TAG>
 	<HTML TAG>
+	<!-- Start Change Three -->
+		Text goes in here for a third time.
+	<!-- End Change Three -->
 <HTML TAG>
 

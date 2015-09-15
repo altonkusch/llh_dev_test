@@ -1,1 +1,3 @@
 This is file number 3.
+
+This is to test branching, and should commit from new_feature.

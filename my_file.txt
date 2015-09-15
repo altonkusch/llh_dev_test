@@ -10,6 +10,9 @@ C:\Users\akusch\Documents\Git\Repos\my_git_project
 	<HTML TAG>
 	<HTML TAG>
 	<HTML TAG>
+	<!-- Start Change Two -->
+		Text goes in here again.
+	<!-- End Change Two -->
 	<HTML TAG>
 	<HTML TAG>
 <HTML TAG>
